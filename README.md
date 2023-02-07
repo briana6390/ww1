@@ -1,10 +1,10 @@
 # ww1
 
-#Good Morning
+Good Morning
 
-#You just woke up and recived a letter saying that you are being recrutied to the military
+You just woke up and recived a letter saying that you are being recrutied to the military
 
-#[You do not go ]()
+[You do not go ]()
 
-#[You go with hesitation]()
+[You go with hesitation]()
 

@@ -1,3 +1,4 @@
 # WW1 Adventure
 
-Click [here]() to go to the website.
+
+Click [here](/start.html) to go to the website.
